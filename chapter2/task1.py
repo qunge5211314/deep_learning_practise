@@ -14,3 +14,7 @@
 # 模型结构：一层隐藏层，25个神经元，激活函数：sigmoid
 # Dependence
 import numpy as np
+
+
+def load_data():
+    pass
